@@ -28,9 +28,9 @@ I enjoy working on real-world datasets, building dashboards, and solving busines
 
 ## 📂 Featured Projects  
 
+- 🔁 **Customer Churn Analysis** – Retention insights using **SQL + Power BI + Excel + Python** (end-to-end project)
 - 🏥 **Healthcare Analytics (Excel)** – Patient-level data analysis and dashboarding using Excel and KPIs  
-- 📊 **Sales Performance Dashboard (Power BI)** – KPI tracking and trend analysis using Power BI  
-- 🔁 **Customer Churn Analysis** – Retention insights using **SQL + Power BI + Excel + Python** (end-to-end project)  
+- 📊 **Sales Performance Dashboard (Power BI)** – KPI tracking and trend analysis using Power BI    
 
 👉 Check my repositories for full code, dashboards, and insights.
 

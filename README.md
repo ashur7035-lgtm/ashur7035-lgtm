@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ashu  
 
-📊 **Aspiring Data Analyst | Excel • SQL • Python • Power BI**
+📊 **Aspiring Data Analyst | Excel • SQL • Python • Power BI • Statistics**
 
 I'm an MCA final-year student with **4+ years of experience in hospital operations, reporting ,and data handling**, passionate about turning raw data into actionable insights.  
 I enjoy working on real-world datasets, building dashboards, and solving business problems using data.

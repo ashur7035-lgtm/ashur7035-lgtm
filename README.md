@@ -38,7 +38,8 @@ I enjoy working on real-world datasets, building dashboards, and solving busines
 
 ## 🎯 Career Interests  
 
-- Junior Data Analyst  
+- Junior Data Analyst
+- MIS Executive / Reporting Analyst
 - Healthcare Data Analyst  
 - Business / Reporting Analyst  
 - Entry-Level BI Analyst  

@@ -41,7 +41,7 @@ I enjoy working on real-world datasets, building dashboards, and solving busines
 - Junior Data Analyst
 - Healthcare Data Analyst  
 - MIS Executive / Reporting Analyst
-- Business / Reporting Analyst  
+- Business Analyst  
 - Entry-Level BI Analyst  
 
 ---

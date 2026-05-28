@@ -48,4 +48,5 @@ I enjoy working on real-world datasets, building dashboards, and solving busines
 ## 🤝 Let's Connect  
 
 - 💼 LinkedIn: https://www.linkedin.com/in/ashu-1b647b212/  
-- 📧 Email: ashur7035@gmail.com  
+- 📧 Email: ashur7035@gmail.com
+- 🌐 Portfolio: https://ashur7035-lgtm.github.io/My_Portfolio/

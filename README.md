@@ -9,7 +9,7 @@ I enjoy working on real-world datasets, building dashboards, and solving busines
 
 ## 🔎 What I Do  
 
-- Clean, validate, and analyze data using **Excel, SQL, and Python**  
+- Clean, validate, and analyze data using **Advanced Excel, SQL, and Python**  
 - Perform **Exploratory Data Analysis (EDA)** to uncover trends and patterns  
 - Build interactive **Power BI dashboards and Excel reports**  
 - Create KPI reports to support business decision-making  
@@ -20,7 +20,7 @@ I enjoy working on real-world datasets, building dashboards, and solving busines
 
 - **Languages:** Python, SQL  
 - **Data Analysis:** Pandas, NumPy, EDA, KPI Analysis  
-- **Visualization:** Power BI, Excel, Matplotlib  
+- **Visualization:** Power BI, Advanced Excel, Matplotlib  
 - **Databases:** MySQL  
 - **Tools:** Git, Jupyter Notebook  
 

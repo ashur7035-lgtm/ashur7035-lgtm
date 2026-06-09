@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ashu  
 
-📈 **Aspiring Data Analyst | Excel • SQL • Python • Power BI • Statistics**
+📈 **Data Analyst | Excel • SQL • Python • Power BI • Statistics**
 
 I'm an MCA final-year student with **4+ years of experience in hospital operations, reporting ,and data handling**, passionate about turning raw data into actionable insights.  
 I enjoy working on real-world datasets, building dashboards, and solving business problems using data.
@@ -20,7 +20,7 @@ I enjoy working on real-world datasets, building dashboards, and solving busines
 
 - **Languages:** Python, SQL  
 - **Data Analysis:** Pandas, NumPy, EDA, KPI Analysis  
-- **Visualization:** Power BI, Advanced Excel, Matplotlib  
+- **Visualization:** Power BI, Advanced Excel, Matplotlib, Seaborn  
 - **Databases:** MySQL  
 - **Tools:** Git, Jupyter Notebook  
 
@@ -28,9 +28,9 @@ I enjoy working on real-world datasets, building dashboards, and solving busines
 
 ## 📂 Featured Projects  
 
-- 🔁 **Customer Churn Analysis** – Retention insights using **SQL + Power BI + Excel + Python** (end-to-end project)
-- 🏥 **Healthcare Analytics (Excel)** – Patient-level data analysis and dashboarding using Excel and KPIs  
-- 📊 **Sales Performance Dashboard (Power BI)** – KPI tracking and trend analysis using Power BI    
+- 🔁 **Customer Churn Analysis** – Retention insights using **Advanced Excel + SQL + Python(ML) + Power BI** (End-to-end project) .
+- 🏥 **Healthcare Analytics (Excel)** – Patient-level data analysis and dashboarding using Advanced Excel and KPIs .
+- 📊 **Sales Performance Dashboard (Power BI)** – KPI tracking and trend analysis using Power BI .
 
 👉 Check my repositories for full code, dashboards, and insights.
 
